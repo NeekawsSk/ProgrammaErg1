@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "409876261848",
+    "firebase_url": "https://programmaerg1.firebaseio.com",
+    "project_id": "programmaerg1",
+    "storage_bucket": "programmaerg1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409876261848:android:f5f6448e4d9bd356",
+        "android_client_info": {
+          "package_name": "com.example.nikos.programmaerg1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409876261848-hrc79o6rv27a5eqt3pf0dhbdskgql18q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxJ3dALLuSewDleCh_3Uard_auUmWSTII"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
